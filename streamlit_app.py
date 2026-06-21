@@ -4,7 +4,7 @@ import requests
 # ==========================
 # FastAPI Endpoint
 # ==========================
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://customer-risk-prediction-1.onrender.com/predict"
 
 # ==========================
 # Page Config
